@@ -8,7 +8,7 @@ A repository for learning and experimenting with **Graph Neural Networks (GNNs)*
 - Message passing and graph convolution operations
 - Common GNN architectures: GCN, GNNs, Graph Attention and more
 - Applications of GNNs on node classification, link prediction, and graph classification tasks
-- Hands-on implementation using PyTorch and PyTorch Geometric
+- Hands-on implementation using PyTorch.
 
 ## Sources
 
